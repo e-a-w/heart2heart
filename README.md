@@ -1,6 +1,6 @@
 # Heart 2 Heart
 
-Visit the deployed site [here](https://heart-to-heart.herokuapp.com/)!
+Visit the deployed site [here](https://heart--2--heart.herokuapp.com/)!
 
 - [Intro](#intro)
 - [Tech Used](#tech-used)
@@ -43,6 +43,8 @@ Application uses ports localhost 3000 and 8080. To run on local machine:
 
     #clone it
     git clone https://github.com/Cal9233/heart2heart.git
+    
+    #add a .env file based on .sample.env in root dir
 
     #run yarn to install dependencies
     yarn install
